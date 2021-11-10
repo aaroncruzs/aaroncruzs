@@ -1,5 +1,5 @@
 # Ingenieria Informatica Superior
-![me](https://github.com/aaroncruzs/aaroncruzs/blob/main/programacion.jpg)
+![me](https://github.com/aaroncruzs/aaroncruzs/blob/main/programacion2.jpg)
 ## Web personal: <a href="https://aacs.com.es/proyectos/laravel/personal/public/">https://aacs.com.es/proyectos/laravel/personal/public/</a>
 ## Sobre mi:
 
